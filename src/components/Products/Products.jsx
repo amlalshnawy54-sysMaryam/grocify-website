@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import Heading from '../Heading/Heading'
-import ProductList from '../ProductList/productList';
+import ProductList from '../ProductList/ProductList';
 import Cards from '../Cards/Cards'
 import Button from '../Button/Button'
 import Category from '../Category/category'
