@@ -4,7 +4,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Fruits from './components/Fruits/Fruits'
 import Dairy from './components/Dairy/Dairy'
 import Seafood from './components/Seafood/Seafood'
-import AllProducts from './components/Allproducts/AllProducts'
+import AllProducts from './components/AllProducts/AllProducts';
 import Layout from './components/Layout/Layout'
 
 const App = () => {
