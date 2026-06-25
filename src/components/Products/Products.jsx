@@ -3,7 +3,6 @@ import Heading from '../Heading/Heading'
 import ProductList from '../ProductList/productList'
 import Cards from '../Cards/Cards'
 import Button from '../Button/Button'
-import productList from '../ProductList/productList'
 import Category from '../Category/category'
 import { Link } from 'react-router-dom'
 
